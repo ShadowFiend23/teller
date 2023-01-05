@@ -1,0 +1,33 @@
+.swal2-popup .swal2-title{
+	font-size: 2em !important;
+}
+.btn:disabled{
+	cursor: not-allowed;
+}
+
+#userCurServing{
+	text-align: center;
+}
+#userCurServing{
+	font-size: 100px;
+}
+#stopServing,
+#nextServing{
+	padding: 100px;
+	font-size: 40px;
+}
+#stopServing i,
+#nextServing i{
+	margin: 5px;
+}
+
+#operator button{
+	font-size: 40px;
+}
+#operator p{
+	font-size:30;
+}
+#operator label{
+	font-size: 35;
+	font-weight: bold;
+}
