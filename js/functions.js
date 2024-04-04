@@ -110,7 +110,7 @@ $(function(){
 	});
 	
 	$("#logoutBtn").on("click",function(){
-        window.location.href = "http://teller.occcicoop.com/logout.php"
+        window.location.href = "/logout.php"
     })
 
 
